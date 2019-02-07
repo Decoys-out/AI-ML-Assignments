@@ -1,1 +1,1 @@
-# AI-ML-Assignments
+# ML-Assignments
